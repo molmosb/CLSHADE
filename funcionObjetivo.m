@@ -3,6 +3,7 @@ function [FO,SVR] = funcionObjetivo(Xi)
     %---
     %---
     FO=resultado_FO; %colocar el resultado de la FO
-    SVR=resultado_SVR; %colocar resultado de la función
+    SVR=resultado_SVR; %colocar resultado de la funciÃ³n
 end
 
+test
